@@ -13,4 +13,4 @@
 
 A screenshot of Small Store Inventory App
 
- <img src="inventory_stock.jpg" alt="inventory_stock" width="400"> 
+ <img src="inventory _stock.jpg" alt="inventory_stock" width="400"> 
