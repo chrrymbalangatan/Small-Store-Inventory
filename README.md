@@ -17,6 +17,34 @@ A screenshot of Small Store Inventory App
 
 ## How to Install and Run
 
+### Prerequisites
+- [Node.js](https://nodejs.org/) (version 18 or newer) and npm
+- [Git](https://git-scm.com/)
+- A web browser (Chrome, Edge, or Firefox)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/chrrymbalangatan/Small-Store-Inventory.git
+   cd Small-Store-Inventory
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+### Run the App Locally
+
+```bash
+npm install -g netlify-cli
+netlify dev
+```
+### Install on a Phone
+Sari Sari is a mobile-friendly app. Open it in your phone's browser and tap the **Install** button in the top bar to add it to your home screen.
+
+**Link : https://small-store-inventory-app.netlify.app**
+
 ## Author
 - **NAME:** Cherry Mae Balangatan 
 - **COURE,YEAR, & SECTION:** BSINTE 2C
