@@ -18,5 +18,5 @@ A screenshot of Small Store Inventory App
 ## How to Install and Run
 
 ## Author
-• Cherry Mae Balangatan 
-• BSINTE 2-C 
+- **NAME:** Cherry Mae Balangatan 
+- **COURE,YEAR, & SECTION:** BSINTE 2C
