@@ -1,6 +1,6 @@
 # Sari Sari 
 
-  Is a Stock Inventory simple mobile app that helps small store owners keep track of their everyday products. You can add items, update stock counts as you sell or restock, and record prices.
+  Is a Inventory Stock mobile app that helps small store owners keep track of their everyday products. You can add items, update stock counts as you sell or restock, and record prices.
   
 ## Features 
 
